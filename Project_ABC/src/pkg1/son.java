@@ -11,7 +11,7 @@ public class son extends student
 	public son(int a)
 	{
 		this(1,2,3);
-		System.out.println("One para child");
+		System.out.println("One paramearized child");
 	}
 	
 	public son(int a, int b)

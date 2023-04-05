@@ -11,7 +11,7 @@ public class student
 	public student(int a)
 	{
 		this();
-		System.out.println("one para parent");
+		System.out.println("one parametarized parent");
 	}
 	
 	public student(int a, int b)
